@@ -22,3 +22,7 @@ Context is key. Please read the book to understand the context of this data anal
 ## Contributions or Bug Reports
 
 If you'd like to contribute feel free to submit a Pull Request. If you've found a bug, please submit an Issue.
+
+## To Do
+
+I need to improve the clarity of the legend in Figure 2 or the overall image resolution.
