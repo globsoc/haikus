@@ -25,7 +25,7 @@ If you'd like to contribute feel free to submit a Pull Request. If you've found 
 
 ## To Do
 
-I need to improve the clarity of the legend in Figure 2 or the overall image resolution.
+Receive comments from editors, revise as needed.
 
 ## Status
 
