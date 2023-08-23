@@ -19,7 +19,7 @@ general image within the R code via plot.ly, etc.
 # https://www.cbp.gov/sites/default/files/assets/documents/2019-Mar/bp-southwest-border-sector-apps-fy1960-fy2018.pdf
 # https://www.dir.ca.gov/OPRL/CPI/EntireCCPI.PDF
 #
-# Other sources are noted within the indivudal figures
+# Other sources are noted within the individual figures
 
 # Libraries and Options ---------------------------------------------------
 # Prepare kaleido for plotly::save_image, if needed
