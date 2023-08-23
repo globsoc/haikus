@@ -9,7 +9,7 @@ computes statistics, and produces reproducible data visualizations
 to accompany the book.
 
 In many cases, I ended up using PowerPoint rather than the plot.ly
-or ggplot2 plots. In those cases I've included the .PPTX source files
+or ggplot2 plots. In those cases I have included the .PPTX source files
 on GitHub with comments in the R code. You can still replicate the same
 general image within the R code via plot.ly, etc.
 '
