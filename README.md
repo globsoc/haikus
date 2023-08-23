@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Brief project description goes here
+Assets to accompany the book "Globalist Socialism & PoSo Capitalism".
 
 ## Author and Copyright
 ©2023 Jason Miller
