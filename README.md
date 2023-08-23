@@ -4,6 +4,8 @@
 
 Assets to accompany the book "Globalist Socialism & PoSo Capitalism".
 
+<img src=“cover.png" alt="Image" width="25%">
+
 ## Author and Copyright
 ©2023 Jason Miller
 
