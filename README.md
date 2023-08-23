@@ -26,3 +26,9 @@ If you'd like to contribute feel free to submit a Pull Request. If you've found 
 ## To Do
 
 I need to improve the clarity of the legend in Figure 2 or the overall image resolution.
+
+## Status
+
+Pre-release. 
+
+This book's manuscript is being reviewed by the publisher. The code, data, and visualizations should be considered tentative and may be revised prior to publication.
