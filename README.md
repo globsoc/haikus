@@ -19,3 +19,6 @@ Some lines are commented out because they pertain to one-off installation of lib
 
 Context is key. Please read the book to understand the context of this data analysis.
 
+## Contributions or Bug Reports
+
+If you'd like to contribute feel free to submit a Pull Request. If you've found a bug, please submit an Issue.
