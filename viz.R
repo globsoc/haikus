@@ -137,7 +137,7 @@ foreign_population_ca$foreign <- ifelse(foreign_population_ca$variable %in%
 
 foreign_population_ca <- foreign_population_ca[foreign_population_ca$foreign %in% T,]
 
-foreign_population_ca  <- aggregate(estimate ~ year + geo, sum, 
+foreign_population_ca <- aggregate(estimate ~ year + geo, sum, 
                                     data = foreign_population_ca)
 foreign_population_ca
 saveRDS(foreign_population_ca, "foreign_population_ca.RDS")
