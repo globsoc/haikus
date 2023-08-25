@@ -27,7 +27,8 @@ If you'd like to contribute feel free to submit a Pull Request. If you've found 
 
 ## To Do
 
-Receive comments from editors, revise as needed.
+  1. Fix truncation of text overflow in Fig 11
+  2. Receive comments from editors, revise as needed.
 
 ## Status
 
